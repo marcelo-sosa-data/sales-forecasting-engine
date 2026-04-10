@@ -6,7 +6,7 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)](.)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](.)
 
----
+--
 
 ## 📌 Contexto de Negocio
 
@@ -18,7 +18,7 @@ Predecir ventas con precisión permite planificar inventario, asignar presupuest
 - ¿Cuál es el rango pesimista / optimista de ventas?
 - ¿Qué factores externos impactan las ventas?
 
----
+--
 
 ## 📂 Estructura
 
